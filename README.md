@@ -5,5 +5,8 @@ This project showcases my first attempt at building a simple neural network ,the
 Tools used:
 cursor.ai
 
+![Static Badge](https://img.shields.io/badge/my--badge-green)
+
+
 
 
